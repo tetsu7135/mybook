@@ -1,0 +1,9 @@
+python manage.py runserver
+
+
+http://127.0.0.1:8000/cms/book/
+http://127.0.0.1:8000/cms/book/add/
+http://127.0.0.1:8000/cms/book/mod/5/
+http://127.0.0.1:8000/cms/book/del/7/
+http://localhost:8000/api/
+http://localhost:8000/api/?format=json
